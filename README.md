@@ -15,3 +15,19 @@
 ## 4. R Text Mining
 - English Text mining with 'tm'
 - Visualization with 'wordcloud'
+
+## 5. Python MachineLearning
+### Supervised Learning
+- KNN (K-Nearest_Neighbor)
+- Linear regression
+- Ridge, Lasso
+- Elastic net
+- Logistic regression
+- Naive Bayes Classifier
+- Decision tree
+- Random Forest
+- Gradient Boosting
+- Ada Boost Algorithm
+- SVM (Support Vector Machine)
+- MLP (Multi-layer Perceptron)
+
