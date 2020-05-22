@@ -31,3 +31,8 @@
 - SVM (Support Vector Machine)
 - MLP (Multi-layer Perceptron)
 
+### Unsupervised Learning
+- PCA
+- K-Means
+- Agglomerative Clustering
+- DBSCAN
