@@ -3,17 +3,17 @@
 - Programming activities in weekly seminar
 
 ## 1. Python Tutorials
-- Practice Numpy, Pandas and Matplotlib
+- Practice Numpy, Pandas and Matplotlib [[20200128]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/1.%2020200128.pdf)
 
 ## 2. R Tutorials
 - Practice Plot, Treemap, Bubble Chart and Mosaic Plot
-- Practice Simple, Multiple Regression and Logistic Regression
+- Practice Simple, Multiple Regression and Logistic Regression [[20200326]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/2.%2020200326.pdf)
 
 ## 3. Python Crawling
 - Web Crawler to download images
 
 ## 4. R Text Mining
-- English Text mining with 'tm'
+- English Text mining with 'tm'  [[20200404]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/3.%2020200404.pdf)
 - Visualization with 'wordcloud'
 
 ## 5. Python MachineLearning
@@ -28,8 +28,8 @@
 - Random Forest
 - Gradient Boosting
 - Ada Boost Algorithm
-- SVM (Support Vector Machine)
-- MLP (Multi-layer Perceptron)
+- SVM (Support Vector Machine)  [[20200515]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/4.%2020200515.pdf)
+- MLP (Multi-layer Perceptron)  [[20200515]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/4.%2020200515.pdf)
 
 ### Unsupervised Learning
 - PCA
