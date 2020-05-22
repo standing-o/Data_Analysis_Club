@@ -36,3 +36,7 @@
 - K-Means
 - Agglomerative Clustering
 - DBSCAN
+
+## 6. MATLAB MachineLearning
+- Practice MATLAB basic
+- Gradient Descent with 1 weight and 2 weight (adjust the learning rate)
