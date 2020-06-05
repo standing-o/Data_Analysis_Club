@@ -40,3 +40,9 @@
 ## 6. MATLAB MachineLearning
 - Practice MATLAB basic
 - Gradient Descent with 1 weight and 2 weight (adjust the learning rate)
+
+## 7. R MachineLearning
+- Simple Linear Regression with women height&weight dataset
+- Multiple Linear Regression with autoparts dataset
+- Optimal Valuable Selection with AIC and K-fold Cross Validation
+- LASSO Regression
