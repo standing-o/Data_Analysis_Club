@@ -10,7 +10,7 @@
 - Practice Simple, Multiple Regression and Logistic Regression [[20200326]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/2.%2020200326.pdf)
 
 ## 3. Python Crawling
-- Web Crawler to download images
+- Web Crawler for downloading images
 
 ## 4. R Text Mining
 - English Text mining with 'tm'  [[20200404]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/3.%2020200404.pdf)
