@@ -46,3 +46,5 @@
 - Multiple Linear Regression with autoparts dataset
 - Optimal Valuable Selection with AIC and K-fold Cross Validation
 - LASSO Regression
+- Decision Tree with autoparts dataset
+- KNN Algorithm with autoparts dataset
