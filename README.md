@@ -45,6 +45,9 @@
 - Simple Linear Regression with women height&weight dataset
 - Multiple Linear Regression with autoparts dataset
 - Optimal Valuable Selection with AIC and K-fold Cross Validation
-- LASSO Regression
+- LASSO Regression with autoparts dataset
 - Decision Tree with autoparts dataset
 - KNN Algorithm with autoparts dataset
+- Correlation analysis with autoparts dataset
+- Clustering Analysis with iris and autoparts dataset
+- Hierarchical clustering and PCA with autoparts dataset
