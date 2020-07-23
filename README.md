@@ -53,6 +53,6 @@
 - Hierarchical clustering and PCA with autoparts dataset
 
 ## 8. Kaggle Tutorials
-- 1. Titanic Tutorial
+1. Titanic Tutorial
     Exploratory data analysis, visualization, machine_learning
     Cross Validation, Confusion Matrix, Hyperparameter-Tuning, Ensembling (Voting, Bagging, Boosting), Feature Importance
