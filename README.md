@@ -57,5 +57,5 @@
     Exploratory data analysis, visualization, machine_learning  
     Cross Validation, Confusion Matrix, Hyperparameter-Tuning, Ensembling (Voting, Bagging, Boosting), Feature Importance  
     
-- Household Poverty Level Prediction [[20200820]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/8.%20Kaggle_Tutorials/2_Household_Poverty_Level_Prediction.ipynb)
+- Household Poverty Level Prediction [[20200820]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/8.%20Kaggle_Tutorials/2_Household_Poverty_Level_Prediction.ipynb)  
     Feature Engineering, Machine Learning, Model Selection, Feature Selection, Gradient Boosting
