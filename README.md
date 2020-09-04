@@ -3,7 +3,13 @@
 - Programming activities in weekly seminar
 
 ## 1. Python Tutorials
-- Practice Numpy, Pandas and Matplotlib [[20200128]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/1.%2020200128.pdf)
+- Practice Numpy, Pandas and Matplotlib [[20200128]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/1.%2020200128.pdf)  
+### Python for Data Analysis  
+- Reference : Python for Data Analysis, Wes McKinney   
+
+1. Build in Data structure functions and files  
+2. Arrays and Vectorized Computations  
+3. Getting started with Pandas  
 
 ## 2. R Tutorials
 - Practice Plot, Treemap, Bubble Chart and Mosaic Plot
