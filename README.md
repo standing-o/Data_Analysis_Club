@@ -65,3 +65,6 @@
     
 - Household Poverty Level Prediction [[20200820]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/8.%20Kaggle_Tutorials/2_Household_Poverty_Level_Prediction.ipynb)  
     Feature Engineering, Machine Learning, Model Selection, Feature Selection, Gradient Boosting
+    
+- Tensorflow Speech Recognition Challenge [[20200910]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/6.%2020200910.pdf)  
+    Speech representation and data exploration, Light-Weight CNN, 1D Inception approach  
