@@ -10,6 +10,8 @@
 1. Build in Data structure functions and files  
 2. Arrays and Vectorized Computations  
 3. Getting started with Pandas  
+4. Data Loading Storage and File Formats
+5. Data Cleaning and Preparation
 
 ## 2. R Tutorials
 - Practice Plot, Treemap, Bubble Chart and Mosaic Plot
