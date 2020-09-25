@@ -14,6 +14,8 @@
 5. Data Cleaning and Preparation
 6. Data Wrangling Join Combine and Reshape  
 7. Plotting and Visualization  
+8. Data Aggregation and Group Operations  
+9. Time Series  
 
 ## 2. R Tutorials
 - Practice Plot, Treemap, Bubble Chart and Mosaic Plot
