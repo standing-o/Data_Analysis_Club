@@ -16,6 +16,7 @@
 7. Plotting and Visualization  
 8. Data Aggregation and Group Operations  
 9. Time Series  
+10. Advanced pandas  
 
 ## 2. R Tutorials
 - Practice Plot, Treemap, Bubble Chart and Mosaic Plot
