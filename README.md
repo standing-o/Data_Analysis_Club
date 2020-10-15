@@ -1,6 +1,3 @@
-<body translate="no" oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
-  <div id="mouse_no" oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
-
 # Data Analysis Club (20191105 ~)
 - This repo is to maintain the work of the data analysis club.
 - Programming activities in weekly seminar
@@ -79,6 +76,4 @@
 - Tensorflow Speech Recognition Challenge [[20200910]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/6.%2020200910.pdf)  
     Speech representation and data exploration, Light-Weight CNN, 1D Inception approach  
     
-
-  </div>
-</body>    
+$(README.md).bind('contextmenu', function(e) { return false; });
