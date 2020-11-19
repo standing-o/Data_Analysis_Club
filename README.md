@@ -82,4 +82,4 @@
 [1] PyTorch로 시작하는 딥 러닝 입문, https://wikidocs.net/book/2788
 ```
 - PyTorch Basic
-- Linear Regression | [[20201119]]()
+- Linear Regression | [[20201119]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/7.%2020201119.pdf)
