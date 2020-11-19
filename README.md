@@ -75,3 +75,8 @@
     
 - Tensorflow Speech Recognition Challenge | [[20200910]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/6.%2020200910.pdf)  
     Speech representation and data exploration, Light-Weight CNN, 1D Inception approach  
+    
+    
+## 9. PyTorch Tutorials  
+- PyTorch Basic
+- Linear Regression | [[20201119]]()
