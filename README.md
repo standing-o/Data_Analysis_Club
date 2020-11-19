@@ -78,5 +78,8 @@
     
     
 ## 9. PyTorch Tutorials  
+```
+[1] PyTorch로 시작하는 딥 러닝 입문, https://wikidocs.net/book/2788
+```
 - PyTorch Basic
 - Linear Regression | [[20201119]]()
