@@ -85,3 +85,9 @@
 ```
 - PyTorch Basic
 - Linear Regression | [[20201119]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/7.%2020201119.pdf)
+    
+## 10. Opencv Tutorials
+```
+[1] OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝, https://thebook.io/006939/
+```
+- Opencv Basic Classes | [[20210121]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/9.%2020210121.pdf)
