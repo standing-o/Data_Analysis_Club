@@ -95,6 +95,8 @@
 - Edge detection, Hough transform, Color inverse | [[20210225]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/10.%2020210225.pdf)
 
 ## 11. Natural Language Processing
-'''
+```
 [1] 딥러닝을 이용한 자연어 처리, https://wikidocs.net/book/2155
 ```
+- Pandas Profiling
+- Tokenization, Cleaning and  Normalization, Stemming and Lemmatization, Stopword, Regular Expression
