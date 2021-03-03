@@ -93,3 +93,8 @@
 ```
 - Opencv Basic Classes | [[20210121]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/9.%2020210121.pdf)  
 - Edge detection, Hough transform, Color inverse | [[20210225]](https://github.com/OH-Seoyoung/Data_Analysis_Club/blob/master/Presentation/10.%2020210225.pdf)
+
+## 11. Natural Language Processing
+'''
+[1] 딥러닝을 이용한 자연어 처리, https://wikidocs.net/book/2155
+```
