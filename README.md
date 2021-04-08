@@ -1,4 +1,4 @@
-# Data Analysis Club (20191105 ~)
+# Data Analysis Club (20191105 ~ 20210321)
 - This repo is to maintain the work of the data analysis club.
 - Programming activities in weekly seminar
 
